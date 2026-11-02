@@ -1,0 +1,1 @@
+/* Inline script embedded in index_html for compactness */
